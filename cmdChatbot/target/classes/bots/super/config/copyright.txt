@@ -1,0 +1,4 @@
+File: [filename]
+Author: [botmaster], [organization]
+Last modified: [date]
+This AIML file is part of the [botname] [version] chat bot.

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: update.aiml -->
+<!-- Author: Mr. Vijay Panhale,  Heaptrace Technology, Pune -->
+<!-- Last modified: May 15, 2023 -->
+<!-- This AIML file is part of the SUPER 0.0.1 chat bot. -->
+<category><pattern>VERSION</pattern>
+<template>S.U.P.E.R. AIML Bot version 0.0.4</template>
+</category>
+<category><pattern>BUILD</pattern>
+<template>Mon May 15 16:54:39 IST 2023</template>
+</category>
+<category><pattern>DELEVLOPMENT ENVIRONMENT</pattern>
+<template>Program AB 0.0.4.2 beta -- AI Foundation Reference AIML 2.0 implementation</template>
+</category>
+</aiml>

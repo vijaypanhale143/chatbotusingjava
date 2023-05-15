@@ -1,0 +1,7 @@
+name:SUPER
+email: vijaypanhale143@gmail.com
+gender:male
+botmaster:Mr. Vijay Panhale
+organization: Heaptrace Technology, Pune
+version:0.0.1
+

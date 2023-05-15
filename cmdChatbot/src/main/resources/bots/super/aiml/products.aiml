@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: products.aiml -->
+<!-- Author: Mr. Vijay Panhale,  Heaptrace Technology, Pune -->
+<!-- Last modified: May 15, 2023 -->
+<!-- This AIML file is part of the SUPER 0.0.1 chat bot. -->
+<category><pattern>SHOW ME ALL PRODUCT CATEGORIES</pattern>
+<template>We have Electronic, Furniture, Groceries, Toys etc.</template>
+</category>
+<category><pattern>WHICH IS MOST SELLABLE PRODUCT</pattern>
+<template>Electronics is the most sellable product.</template>
+</category>
+<category><pattern>WHICH IS LEAST SELLABLE PRODUCT</pattern>
+<template>Toys is the least sellable product.</template>
+</category>
+<category><pattern>LIST OF LATEST MOBILES</pattern>
+<template>SAMSUNG GALAXY S23, APPLE IPHONE 14 ARE SOME OF GOOD ELECTRONICS PRODUCTS</template>
+</category>
+<category><pattern>WHICH IS THE BEST MOBILE PRODUCT</pattern>
+<template>SAMSUNG GALAXY S23 IS THE BEST</template>
+</category>
+<category><pattern>HOW MANY SUB CATEGORIES UNDER ELECTRONICS</pattern>
+<template>We have Mobiles, Home appliances, Gadgets, Laptops and many more</template>
+</category>
+</aiml>

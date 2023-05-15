@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: testjp.aiml -->
+<!-- Author: Mr. Vijay Panhale,  Heaptrace Technology, Pune -->
+<!-- Last modified: May 15, 2023 -->
+<!-- This AIML file is part of the SUPER 0.0.1 chat bot. -->
+<category><pattern>GREETINGS</pattern>
+<template>????????????????????????</template>
+</category>
+<category><pattern>?????</pattern>
+<template><srai>GREETINGS</srai></template>
+</category>
+</aiml>
